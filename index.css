@@ -1,0 +1,17 @@
+body{
+    background: black;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    text-align: center;
+
+}
+
+main {
+    color: white;
+}
+
+img {
+    width: 300px;
+}
+
